@@ -10,7 +10,7 @@ that you don't forget anything in your list. This app is designed keeping in vie
 busy lives as a result of which we skip important things of our daily schedule, one of the most significant part is Grocery Shopping.
 This app is easy to use and users can feed the items to buy without any hassle.
 
-Below are the screenshots for the app in action
+Below are the screenshots of the app in action
 
 ![Screenshot (29)](https://user-images.githubusercontent.com/64703962/192154848-664e73a7-a588-4834-9ebe-55287561493d.png)
 ![Screenshot (25)](https://user-images.githubusercontent.com/64703962/192154856-a774159d-0955-4134-a983-4ad3df316211.png)
