@@ -9,6 +9,7 @@ However, with the assistance of this app, you can make a list of the groceries y
 that you don't forget anything in your list. This app is designed keeping in view the users needs and
 busy lives as a result of which we skip important things of our daily schedule, one of the most significant part is Grocery Shopping.
 This app is easy to use and users can feed the items to buy without any hassle.
+Please follow the below demo link for the project demostration: https://youtu.be/y0lhjy31MrQ
 
 Below are the screenshots of the app in action
 
